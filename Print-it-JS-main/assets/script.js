@@ -74,10 +74,3 @@ leftArrow.addEventListener('click', function() {
 	paragraphBanner.innerHTML = slides[index].tagLine;
 	changeDotSelectedCss()
 })
-
-// conditions en JS (if, else, switch)
-// boucle en JS (for, while, forEach, map...)
-// tableau en JS (array)
-// objet en JS (object)
-// créer des élements en JS (createElement)
-// ajouter des élements en JS (appendChild)
